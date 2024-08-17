@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 1.2.6
+_src_path: gh:algorandfoundation/algokit-python-template
+author_email: bachduong7103@gmail.com
+author_name: DngBack
+contract_name: lessons_compile
+deployment_language: python
+preset_name: production
+project_name: lesson2_compile
+
